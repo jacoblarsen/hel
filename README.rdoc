@@ -1,6 +1,5 @@
 == VALHAL. Digital Curation Platform
 === Part of Chronos - The Royal Librarys 'Digital Library Platform'
-jacob was here
 
 === Up and running
 * Ruby version 2.0
